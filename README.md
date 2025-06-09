@@ -1,0 +1,2 @@
+# Lab02_Trayectorias_Entradas_Salidas_Digitales.
+Repositorio Laboratorio 2
