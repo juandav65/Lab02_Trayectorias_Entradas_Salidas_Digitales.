@@ -10,7 +10,6 @@ Estas pueden ser vistas a mayor detalle en el documento WorkObject02 que present
 Calibracion:
 
 Para poder desarrollar el laboratorio en primer lugar se debe calibrar la herramienta impresa en el manipulador, para ello se coloca la herramienta en el manipulador y de forma manual se mueve el robot para tocar un punto desde tres direcciones distintas; por medio de este metodo se obtuvo una calibracion con error del 4%, la cual se encuentra en el documento TCP_MF.MOD.
-Tambien se calibro el Work Object......
 
 Desarrollo de Trayectorias:
 
