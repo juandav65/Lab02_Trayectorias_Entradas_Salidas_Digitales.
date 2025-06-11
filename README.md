@@ -14,5 +14,9 @@ Tambien se calibro el Work Object......
 Desarrollo de Trayectorias
 Una vez calibrada la herramienta y el work object se pueden implementar las trayectorias, para el desarrollo de estas se hace uso de RobotStudio en donde se cargaron tanto la herramienta como el work object y se desarrollo una rutina en RAPID para que el manipulador siga, la cual se puede encontrar en el archivo.....
 a continuacion se presenta un diagrama de flujo de las acciones del mainupalador.
+![WhatsApp Image 2025-06-10 at 7 04 15 PM](https://github.com/user-attachments/assets/06f63a25-83bb-4ec3-993d-a8106288ce15)
+
+
+Para lograr las acciones antes descritas se utilizaron 3 tipos de funciones MoveJ que permite mover el robot hasta un punto determinado, MoveL que permite hacer una linea recta entre dos puntos y MoveC que a partir de una posicion inicial y con los datos de radio y posicion final crea una curva; ademas de ello tambien se trabajo con un smart component para simular la banda transportadora y otro para un sensor de presencia, el cual al deterctar al work object detiene la banda transportadora y da inicio al programa del manipulador.
 
 
