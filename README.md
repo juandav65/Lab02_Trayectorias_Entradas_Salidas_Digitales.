@@ -1,5 +1,5 @@
 # Lab02_Trayectorias_Entradas_Salidas_Digitales.
-el presente laboratorio,  hace uso  del manipulador industrial ABB IRB 140 por medio de RobotStudio, con el fin de realizar diversos tipos de trayectorias, asi como el uso de entradas y salidas digitales.
+El presente laboratorio,  hace uso  del manipulador industrial ABB IRB 140 por medio de RobotStudio, con el fin de realizar diversos tipos de trayectorias, asi como el uso de entradas y salidas digitales.
 
 En nuestro caso se buscaba realizar siguientes trayectorias.
 
