@@ -27,6 +27,6 @@ Para lograr las acciones antes descritas se utilizaron 3 tipos de funciones Move
 
 Para observar en video la ejecición de la simulación y la prueba, puede acceder al siguiente video.
 
-[![Watch the video](https://img.youtube.com/vi/O9zEcF-wqtg/maxresdefault.jpg)](https://youtu.be/O9zEcF-wqtg)
+[![Watch the video](https://img.youtube.com/vi/qbFU7lfCzB0/maxresdefault.jpg)](https://youtu.be/qbFU7lfCzB0)
 
-### [Mirar el video en youtube](https://youtu.be/O9zEcF-wqtg)
+### [Mirar el video en Youtube](https://youtu.be/qbFU7lfCzB0)
