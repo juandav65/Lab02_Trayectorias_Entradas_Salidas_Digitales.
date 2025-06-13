@@ -16,7 +16,7 @@ Vista de planta del montaje en RobotStudio.
 
 Desarrollo de Trayectorias:
 
-Una vez calibrada la herramienta y el work object se pueden implementar las trayectorias, para el desarrollo de estas se hace uso de RobotStudio en donde se cargaron tanto la herramienta como el work object y se desarrollo una rutina en RAPID para que el manipulador siga, la cual se puede encontrar en el archivo RAPIDTaller2.txt.
+Una vez calibrada la herramienta y el work object se pueden implementar las trayectorias, para el desarrollo de estas se hace uso de RobotStudio en donde se cargaron tanto la herramienta como el work object y se desarrollo una rutina en RAPID para que el manipulador siga, la cual se puede encontrar en el archivo Module1.mod.
 a continuacion se presenta un diagrama de flujo de las acciones del mainupalador.
 
 ![WhatsApp Image 2025-06-10 at 7 04 15 PM](https://github.com/user-attachments/assets/06f63a25-83bb-4ec3-993d-a8106288ce15)
