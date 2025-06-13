@@ -24,7 +24,6 @@ a continuacion se presenta un diagrama de flujo de las acciones del mainupalador
 
 Para lograr las acciones antes descritas se utilizaron 3 tipos de funciones MoveJ que permite mover el robot hasta un punto determinado, MoveL que permite hacer una linea recta entre dos puntos y MoveC que a partir de una posicion inicial y con los datos de radio y posicion final crea una curva; ademas de ello tambien se trabajo con un smart component para simular la banda transportadora y otro para un sensor de presencia, el cual al deterctar al work object detiene la banda transportadora y da inicio al programa del manipulador.
 
+
+Para observar en video la ejecición de la simulación y la prueba, puede acceder al siguiente video.
 https://youtu.be/O9zEcF-wqtg
-[https://youtu.be/3rBjnO5mUds](https://youtu.be/3rBjnO5mUds)
-https://youtu.be/3rBjnO5mUds
-[![](https://markdown-videos.deta.dev/youtube/3rBjnO5mUds)](https://youtu.be/3rBjnO5mUds)
