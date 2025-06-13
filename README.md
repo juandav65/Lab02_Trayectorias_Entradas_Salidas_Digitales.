@@ -11,9 +11,12 @@ Calibracion:
 
 Para poder desarrollar el laboratorio en primer lugar se debe calibrar la herramienta impresa en el manipulador, para ello se coloca la herramienta en el manipulador y de forma manual se mueve el robot para tocar un punto desde tres direcciones distintas; por medio de este metodo se obtuvo una calibracion con error del 4%, la cual se encuentra en el documento TCP_MF.MOD.
 
+![WhatsApp Image 2025-06-12 at 7 24 03 PM](https://github.com/user-attachments/assets/b46ac496-237b-4e28-a52a-ce90a6cf0dfd)
+Vista de planta del montaje en RobotStudio.
+
 Desarrollo de Trayectorias:
 
-Una vez calibrada la herramienta y el work object se pueden implementar las trayectorias, para el desarrollo de estas se hace uso de RobotStudio en donde se cargaron tanto la herramienta como el work object y se desarrollo una rutina en RAPID para que el manipulador siga, la cual se puede encontrar en el archivo.....
+Una vez calibrada la herramienta y el work object se pueden implementar las trayectorias, para el desarrollo de estas se hace uso de RobotStudio en donde se cargaron tanto la herramienta como el work object y se desarrollo una rutina en RAPID para que el manipulador siga, la cual se puede encontrar en el archivo RAPIDTaller2.txt.
 a continuacion se presenta un diagrama de flujo de las acciones del mainupalador.
 
 ![WhatsApp Image 2025-06-10 at 7 04 15 PM](https://github.com/user-attachments/assets/06f63a25-83bb-4ec3-993d-a8106288ce15)
